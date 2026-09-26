@@ -107,7 +107,7 @@ I'm particularly interested in working on ERP customizations, business applicati
 
 If you're working with **Microsoft Dynamics 365 Business Central, AL, ERP development or full-stack applications**, I'd be happy to connect and learn from the community.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/shashank-shukla-a5544b282)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/shashank-shukla-a5544b282/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=vercel)](https://shashank-business-central-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github)](https://github.com/shashank1935)
 

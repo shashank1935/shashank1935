@@ -82,6 +82,19 @@ Event management • Authentication • Seat selection • Cart • Booking hist
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashank1935&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://streak-stats.demolab.com?user=shashank1935&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank1935&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+</p>
+
+---
+
 ## 📚 Currently Learning
 
 * Advanced Microsoft Dynamics 365 Business Central development
